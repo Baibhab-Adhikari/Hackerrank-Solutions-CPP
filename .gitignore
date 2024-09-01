@@ -396,3 +396,15 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+
+
+# Ignore Unix executable files
+*.out
+*.exe
+*.bin
+*.app
+
+
+# ignore ds store
+.DS_Store
